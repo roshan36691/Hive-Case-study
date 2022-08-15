@@ -15,7 +15,8 @@ The implementation phase can be divided into the following parts:
 
 The data is available from the link provided:
 
-https://e-commerce-events-ml.s3.amazonaws.com/2019-Oct.csv 
+https://e-commerce-events-ml.s3.amazonaws.com/2019-Oct.csv
+
 https://e-commerce-events-ml.s3.amazonaws.com/2019-Nov.csv
   
 Overview of steps:
