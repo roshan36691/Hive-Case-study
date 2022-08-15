@@ -15,6 +15,7 @@ The implementation phase can be divided into the following parts:
 
 The data is available from the link provided:
 https://e-commerce-events-ml.s3.amazonaws.com/2019-Oct.csv 
+
 https://e-commerce-events-ml.s3.amazonaws.com/2019-Nov.csv
   
 Overview of steps:
@@ -22,9 +23,10 @@ Overview of steps:
    - Launch an EMR cluster that u1lizes the Hive services, and
    - Move the data from the S3 bucket into the HDFS
 2. Creating the database and launching Hive queries on your EMR cluster:
-• Create the structure of your database,
-• Use op1mized techniques to run your queries as efficiently as possible
-• Show the improvement of the performance aHer using op1miza1on on any single query.
-• Run Hive queries to answer the ques1ons given below.
-● Cleaning up
-• Drop your database, and • Terminate your cluster
+   - Create the structure of your database,
+   - Use op1mized techniques to run your queries as efficiently as possible
+   - Show the improvement of the performance aHer using op1miza1on on any single query.
+   - Run Hive queries to answer the ques1ons given below.
+3. Cleaning up
+   - Drop your database, and 
+   - Terminate your cluster
